@@ -5,4 +5,4 @@
 </p>
 
 ---
-✨ I'm a software engineer and I code on occasion, believe it or not. My latest deal is I'm playing with React, Typescript and Ruby on Rails.
+✨ I'm a software engineer. My latest deal is I'm playing with React, Typescript and Ruby on Rails.
