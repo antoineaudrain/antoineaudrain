@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoine Audrain</h1>
-<h3 align="center">I'm a software engineer, Full-Stack enthusiast, React ninja, Ruby On Rails aficionado.</h3>
+<h3 align="center">I'm a Software Engineer, Full-Stack enthusiast, React ninja, Ruby On Rails aficionado.</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/antoine-audrain/">Linkedin</a> •
   <a href="https://twitter.com/antoineaudrain">Twitter</a>
