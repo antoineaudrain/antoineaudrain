@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on a cool project named [Zaap](https://github.com/zaapsh)
 - 💬 Ask me about: **React, Vue, Ruby On Rails**
-- 📫 How to reach me: **Find me on [<img alt="Antoine Audrain | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/antoine-audrain/)**
+- 📫 How to reach me: **Find me on [LinkedIn](https://www.linkedin.com/in/antoine-audrain/)**
 - ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
