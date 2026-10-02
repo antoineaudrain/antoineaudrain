@@ -1,29 +1,27 @@
-<h1 align="center">Hi 👋, I'm Antoine Audrain</h1>
-<h3 align="center">I'm a Software Engineer, Full-Stack enthusiast, React ninja, Ruby On Rails aficionado.</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/antoine-audrain/">Linkedin</a> •
-  <a href="https://twitter.com/antoineaudrain">Twitter</a>
-</p>
+### I build the thing, then make it better.
 
-</br>
+Product builder · Software engineer · Lyon, France
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+[**Let's connect ↗**](https://www.linkedin.com/in/antoine-audrain/)
 
-- 👨‍💻 I'm currently working on some cool projects and learning Go
-- 💬 Ask me about: **React, Vue, Ruby On Rails**
-- 📫 How to reach me: **Find me on [LinkedIn](https://www.linkedin.com/in/antoine-audrain/)**
-- ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
+</div>
 
-<!-- </br>
+---
+
+I’m Antoine. I like taking a rough idea all the way to a product people can actually use: finding the shape of the problem, building the first version, and refining the details that make it feel right.
+
+My home turf is **Ruby on Rails and React**, with experience across Vue, React Native, APIs, and product infrastructure. I’m also exploring **Go, Rust, and event-driven systems**. I use **Codex and Claude Code** in my workflow to move faster, while keeping the product decisions and code quality in my hands.
+
+---
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=antoineaudrain&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/antoineaudrain)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=antoineaudrain&theme=material-palenight)](https://github.com/antoineaudrain)
-</div> -->
+**Have something interesting to build?**
 
-</br>
+[Connect on LinkedIn ↗](https://www.linkedin.com/in/antoine-audrain/)
 
-Last Edited on: 21/03/2022
+<sub>Good products come from curiosity, sharp execution, and a lot of iteration.</sub>
+
+</div>
